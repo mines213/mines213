@@ -1,5 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mines213)](https://solved.ac/mines213)
+[![CodeForces Profile](https://cf.leed.at?id=mines213)](https://codeforces.com/profile/mines213)
 <!--
 **mines213/mines213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
