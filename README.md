@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={mines213})](https://solved.ac/{mines213})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mines213)](https://solved.ac/mines213)
 <!--
 **mines213/mines213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
