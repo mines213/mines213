@@ -1,8 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mines213)](https://solved.ac/mines213)
 [![CodeForces Profile](https://cf.leed.at?id=mines213)](https://codeforces.com/profile/mines213)
-![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=1f8acb&label=Codeforces%20Rating&query=%24.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmines213)
-
 <!--
 **mines213/mines213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
